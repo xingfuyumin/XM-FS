@@ -1,0 +1,28 @@
+{
+    "name": "xm-fs",
+    "version": "1.0.0",
+    "description": "通过FTP/FTPS/SSH远程管理文件信息或管理本地文件",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/xingfuyumin/XM-FS.git"
+    },
+    "keywords": [
+        "ftp",
+        "ftps",
+        "ssh",
+        "fs"
+    ],
+    "author": "周小明",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/xingfuyumin/XM-FS/issues"
+    },
+    "homepage": "https://github.com/xingfuyumin/XM-FS#readme",
+    "devDependencies": {
+        "@types/node": "^16.11.6"
+    }
+}
